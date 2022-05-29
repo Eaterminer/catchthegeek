@@ -4,7 +4,10 @@ Disallow: assets
 Disallow: assets/*
 Disallow: publish.sh
 Disallow: .gitignore
+Disallow: templates
+Disallow: templates/*
 
 Allow: index.html
+Allow: Articles/*
 
 Sitemap: http://www.eaterminer.github.io/catchthegeek/sitemap.xml
