@@ -1,7 +1,10 @@
 User-agent: *
-Disallow: archive/*
-Disallow: upcoming
-Disallow: upcoming/*
-Disallow: archive
+
+Disallow: assets
+Disallow: assets/*
+Disallow: publish.sh
+Disallow: .gitignore
+
+Allow: index.html
 
 Sitemap: http://www.eaterminer.github.io/catchthegeek/sitemap.xml

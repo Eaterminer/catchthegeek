@@ -705,6 +705,8 @@ a:hover {
 .site-footer {
 	padding-top: 2rem;
 	margin-top: 2rem;
+	text-align: justify;
+	width: 100%;
 	border-top: solid 1px #eff0f1;
 }
 @media screen and (min-width: 64em) {
@@ -723,9 +725,12 @@ a:hover {
 	}
 }
 .site-footer-owner {
-	display: block;
+	display: inline-block;
 	font-weight: bold;
 }
 .site-footer-credits {
 	color: #819198;
+}
+.article {
+	padding: 2rem 0;
 }

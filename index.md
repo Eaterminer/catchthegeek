@@ -1,3 +1,0 @@
-# Catch the Geek
-
-## Welcome!
