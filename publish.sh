@@ -7,3 +7,4 @@ fi
 git add .
 echo Commit Name: $commitName
 git commit -m "$commitName"
+git push
