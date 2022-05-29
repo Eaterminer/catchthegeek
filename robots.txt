@@ -1,5 +1,7 @@
 User-agent: *
 Disallow: archive/*
+Disallow: upcoming
+Disallow: upcoming/*
 Disallow: archive
 
 Sitemap: http://www.eaterminer.github.io/catchthegeek/sitemap.xml
