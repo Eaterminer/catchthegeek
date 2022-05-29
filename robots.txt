@@ -4,8 +4,8 @@ Disallow: assets
 Disallow: assets/*
 Disallow: publish.sh
 Disallow: .gitignore
-Disallow: templates
-Disallow: templates/*
+Disallow: source
+Disallow: source/*
 
 Allow: index.html
 Allow: Articles/*
